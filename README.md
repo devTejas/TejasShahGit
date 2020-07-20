@@ -1,2 +1,2 @@
-# SankethReddyGIT
+# TejasShahGIT
 EPAM TASK's
